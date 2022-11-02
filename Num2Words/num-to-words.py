@@ -5,7 +5,7 @@ but you should support inputs up to at least one million
 (or the maximum value of your language's default bounded integer type, if that's less). 
 
 Optional: Support for inputs other than positive integers (like zero, negative integers, 
-            and floating-point numbers).
+            and floating-point numbers).......
 """
 import num2words as n2w
 from tkinter import *
